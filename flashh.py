@@ -1,0 +1,2 @@
+# flashh.py
+TOKEN = "7231931412:AAFdRwOFnycwjGSP6o5Vg3fAWZec3Zc96rk"
